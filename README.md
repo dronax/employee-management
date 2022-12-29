@@ -7,6 +7,9 @@
 - id :Employee Id
 - departmnet:Department of Employee 
 
+### moudles used:
+- react-redux
+
 ### UI -Used:
 -react bootstrap for components
 
