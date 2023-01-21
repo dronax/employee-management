@@ -1,0 +1,48 @@
+.addbuttonimg{
+    height: 60px;
+    margin-left: 900px;
+}
+.addbutton{
+    margin: 0;
+    border: 2px solid black;
+    height: 60px;
+    width: 1000px
+}
+.addbar{
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    margin-top: 10px;
+    height: 15vh;
+    border: 2px solid black;
+    border-radius: 3%;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.data{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.images{
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-right: 5px;
+
+}
+.delete{
+    height: 4vh;
+}
+.edit{
+    height: 4vh;
+}
+
+
